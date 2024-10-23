@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter12/practice/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter12/practice/practice2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter12/practice/practice3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter13/practice/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter13/practice/practice2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter14/practice/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter14/practice/practice2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter16/practice/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter17/practices/practice1/SalesTxn17-01Soln/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter17/practices/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter17/practices/practice2/SalesTxn17-02Soln/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter17/practices/practice2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter17/practices/practice3/SalesTxn17-03Soln/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter17/practices/practice3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter18/practice/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Book/chapter19/practice/practice1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaDummies/JavaDummiesExercises/chapter3/Chapter_3/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Book/chapter15" />
+      <excludeFolder url="file://$MODULE_DIR$/Book/chapter15/practice/practice1/src" />
+      <excludeFolder url="file://$MODULE_DIR$/Book/chapter15/practice/practice2/src" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/postgresql-42.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

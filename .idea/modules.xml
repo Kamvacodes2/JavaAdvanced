@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security/examples/ModulesTest/src/A/A.iml" filepath="$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security/examples/ModulesTest/src/A/A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/A-Annotations_labs/A-Annotations_labs.iml" filepath="$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/A-Annotations_labs/A-Annotations_labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security/examples/ModulesTest/src/B/B.iml" filepath="$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security/examples/ModulesTest/src/B/B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security_labs.iml" filepath="$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security_labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security/examples/ModulesTest/src/C/C.iml" filepath="$PROJECT_DIR$/D102474GC10_labs/D102474GC10_labs/B-Security_labs/B-Security/examples/ModulesTest/src/C/C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Advanced.iml" filepath="$PROJECT_DIR$/.idea/Java Advanced.iml" />
+    </modules>
+  </component>
+</project>
